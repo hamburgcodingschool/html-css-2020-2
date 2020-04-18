@@ -64,3 +64,10 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Did you sign up for Slack?
     * [x] Name one thing you learned today?
     * [x] Is there anything we can improve for upcoming courses?
+    
+    
+## Attendees
+- Ugur (Trainer)
+- Alex
+- Anna
+- Johanna
