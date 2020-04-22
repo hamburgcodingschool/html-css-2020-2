@@ -65,7 +65,31 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Name one thing you learned today?
     * [x] Is there anything we can improve for upcoming courses?
     
-    
+## Lesson #3
+
+* [x] **Checking homeworks**
+* [x] Skill Matrix created for feature sessions
+* [x] New elements for Head tag
+    * [x] How to include a CSS file into html code
+    * [x] How to include a JavaScript file into html code
+    * [x] How to use viewport
+    * [x] How else you can use meta tag
+* [x] Display types for HTML elements
+    * [x] What's the difference between block, inline and inline-block
+    * [x] Which elements has these different types of display
+* [x] Different types of styling
+    * [x] What's the difference between inline, internal and external styling
+    * [x] Why inline styling overrides internal one
+* [x] **Practices during the course**
+    * [x] Add a favicon to your website
+    * [x] Create a button which will open an email client to mail desired address
+    * [x] Create few columns on your website with different content        
+* [x] **Homework**
+    * [x] Create smilar design like this website: https://www.howtodeal.dev using columns
+    * [x] Research what Git and Github
+    * [x] Research what IP addresses are
+    * [x] Research what naming in web development is
+
 ## Attendees
 - Ugur (Trainer)
 - Alex
