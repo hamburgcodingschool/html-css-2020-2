@@ -90,6 +90,29 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Research what IP addresses are
     * [x] Research what naming in web development is
 
+## Lesson #4
+* [x] **Checking homeworks**
+* [x] Skill Matrix 
+* [x] CSS Basics
+    * [x] Syntax, commenting, naming conventions
+* [x] Different color spaces
+* [x] CSS Selectors
+* [x] CSS pseudo elements
+* [x] Different units
+* [x] Specificity rules
+* [x] CSS box model
+* [x] **Practices during the course**
+    * [x] Use different selectors on last week's homework
+    * [x] Use external styling, simplify your css code
+    * [x] Use different elemtns like gradient and text-shadow
+* [x] **Homework**
+    * [x] Create a dialog in the middle of the page
+    * [x] Add some text and two buttons: cancel and ok
+    * [x] When user wants to click cancel make it change it's place
+    * [x] Only use external styling
+    * [x] Research what bootstrap is.
+    * [x] Design a landing page (image is sent via slack)
+
 ## Attendees
 - Ugur (Trainer)
 - Alex
