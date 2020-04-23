@@ -1,0 +1,69 @@
+.page {
+  background-color: grey;
+  color: #fefefd; /* HEX color value */
+  font-size:
+}
+
+.stage {
+  background-color: #113b63;
+}
+
+.greenish-background {
+
+}
+
+.another-class {
+  color: yellow;
+  font-size: 60px;
+  width: 20%;
+  height: 100px;
+}
+
+.right-side {
+
+}
+
+.text-highlight {
+  color: #f89f5a;
+}
+
+.van-gogh-yellow {
+  background-color: #234567;
+}
+
+.button-text {
+  font-size: 10px;
+  font: newFont.ttl;
+}
+
+/* Class selector */
+.picasso {
+  shape-outside: ellipse();
+}
+
+/* Id selector */
+#newParagraphDiv {
+  background-color: #110027;
+}
+
+/* Element selector */
+p.greenish-background {
+  width: 20%;
+  color: red;
+  background-color: green;
+  font-size: 50px
+}
+
+.differentP {
+  font-size: 5px !important;
+}
+
+#thirdP {
+  font-size: 60px;
+}
+
+
+#boxModelDiv {
+  margin: 10px;
+  padding: 20px;
+}
