@@ -129,7 +129,7 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
 * [x] **Homework**
     * [x] Think about what you wish to learn
     * [x] Research about cookies and caches   
-* [x] **Practices during the course**
+* [x] **Retro**
     * [x] Don'ts - Dos - More
 
 ## Attendees
