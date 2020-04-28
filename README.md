@@ -91,6 +91,7 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Research what naming in web development is
 
 ## Lesson #4
+
 * [x] **Checking homeworks**
 * [x] Skill Matrix 
 * [x] CSS Basics
@@ -112,6 +113,24 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Only use external styling
     * [x] Research what bootstrap is.
     * [x] Design a landing page (image is sent via slack)
+    
+## Lesson #5
+
+* [x] **Checking homeworks**
+* [x] Skill Matrix 
+* [x] Bootstrap Basics
+    * [x] Grids
+    * [x] Containers, fluids
+* [x] Difference about adoptive and responsive design
+* [x] **Practices during the course**
+    * [x] Build this website using Bootsrap only: https://www.howtodeal.dev 
+    * [x] Create three columns using grids, make second grid arrange its widht according to its content
+    * [x] Css game: https://www.howtodeal.dev  and http://flexboxfroggy.com/
+* [x] **Homework**
+    * [x] Think about what you wish to learn
+    * [x] Research about cookies and caches   
+* [x] **Practices during the course**
+    * [x] Don'ts - Dos - More
 
 ## Attendees
 - Ugur (Trainer)
