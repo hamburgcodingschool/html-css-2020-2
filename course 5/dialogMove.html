@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+
+#cancel:hover {
+	color: green
+}
+
+.button {
+	margin: 40px
+}
+
+div {
+	margin: 20px
+}
+
+</style>
+</head>
+<body>
+
+<h1>Some important website</h1>
+
+<table>
+  <tr>
+    <th>Very important column
+
+    <dialog open>This is an open dialog window
+    	<div>
+          <button> Ok </button>
+          <button id="cancel" > Cancel </button>
+       	</div>
+    </dialog></th>
+    <th>Numbers</th>
+    <th>More number</th>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>28</td>
+    <td>31</td>
+  </tr>
+</table>
+
+<p><b>Note:</b> The dialog tag is not supported in Safari and Edge (prior version 79).</p>
+
+</body>
+
+<script>
+document.getElementById("cancel").addEventListener("mouseover", mouseOver);
+document.getElementById("cancel").addEventListener("mouseout", mouseOut);
+
+function mouseOver() {
+  document.getElementById("cancel").style.color = "red";
+  document.getElementById('cancel').className ="button";
+}
+
+function mouseOut() {
+  document.getElementById("cancel").style.color = "black";
+}
+</script>
+</html>
