@@ -132,6 +132,29 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
 * [x] **Retro**
     * [x] Don'ts - Dos - More
 
+## Lesson #6
+
+* [x] Going through the most important question attandees have
+    * [x] In which cases we use **#id** selector over **#class** in CSS?
+    * [x] How should our CSS code be structred?
+* [x] Different position property values to layout elements (https://www.w3.org/Style/Examples/007/center.en.html)
+* [x] How to center images and other elements (texts, divs etc.)
+* [x] Media querries, how to use them to build responsive websites
+* [x] Java Script basics
+* [x] Simple example of temperature converter with JavaScript
+* [x] **Practices during the course**
+    * [x] Add more than 3 pictures on your websites and make sure they are centered and visible within page 
+* [x] **Homework**
+    * [x] Build a Xmas tree with rectangles using Bootstrap.
+    * [x] Background color of the page will differ depending on the device's screen size.
+    * [x] Put lyrics of your famous Xmas song's lyrics inside rectangles and ajjust texts to right, left or center according to their rectangle.
+    * [x] Leaves rectangle borders' must be green, body rectangle border must be brown.
+    * [x] Xmas tree must be in the center of the page.
+    * [x] Font of the whole page must be Helvetica.
+* [x] **Retro**
+    * [x] Anything about the course that you think could be better.
+    * [x] What did you like about it the most?
+    
 ## Attendees
 - Ugur (Trainer)
 - Alex
