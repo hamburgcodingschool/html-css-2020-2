@@ -1,0 +1,23 @@
+.myImages {
+  width: 300px;
+  height: 300px;
+}
+
+.myButtons {
+  height: 30px;
+  width: 50px;
+  color: #672389;
+}
+
+.buttonBackgroundColors {
+  background-color: #00ff00;
+}
+
+#loginButton {
+  background-color: #00ff00;
+}
+
+div .biggerButtons {
+  height: 80px;
+  width: 100px;
+}
