@@ -155,8 +155,3 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Anything about the course that you think could be better.
     * [x] What did you like about it the most?
     
-## Attendees
-- Ugur (Trainer)
-- Alex
-- Anna
-- Johanna
