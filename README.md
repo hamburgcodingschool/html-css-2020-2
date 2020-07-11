@@ -88,6 +88,7 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Create smilar design like this website: https://www.howtodeal.dev using columns
     * [x] Research what Git and Github
     * [x] Research what IP addresses are
+    * [x] Research what cookies are
     * [x] Research what naming in web development is
 
 ## Lesson #4
@@ -125,7 +126,7 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
 * [x] **Practices during the course**
     * [x] Build this website using Bootsrap only: https://www.howtodeal.dev 
     * [x] Create three columns using grids, make second grid arrange its widht according to its content
-    * [x] Css game: https://www.howtodeal.dev  and http://flexboxfroggy.com/
+    * [x] Css game: https://flukeout.github.io/   and http://flexboxfroggy.com/
 * [x] **Homework**
     * [x] Think about what you wish to learn
     * [x] Research about cookies and caches   
@@ -154,4 +155,17 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
 * [x] **Retro**
     * [x] Anything about the course that you think could be better.
     * [x] What did you like about it the most?
-    
+
+## Lesson #7
+## Lesson #8
+## Lesson #9
+
+## Attendees
+- Ugur (Trainer)
+- German Garcia
+- Christian Eckardt
+- Andrew Russell
+- Annika Klüpfel
+- Steffen Häfelinger
+- Gabi Geringer
+- Angie Nguyen Phan
