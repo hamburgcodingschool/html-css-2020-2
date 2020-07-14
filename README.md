@@ -13,11 +13,11 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
   * [x] HTML document structure
   * [x] Nested blocks
 * [x] HTML Elements (paragraph, division, headings, link, image etc.)
-* [] HTML attributes
-  * [] How attributes works
-  * [] Applying more than one attribute
-* [] Text Formatting
-  * [] Using tags such as: bold, italic, small etc.
+* [ ] HTML attributes
+  * [ ] How attributes works
+  * [ ] Applying more than one attribute
+* [ ] Text Formatting
+  * [ ] Using tags such as: bold, italic, small etc.
 
 * [x] **Practices during the course**
   * [x] Create your first hmtl file.
