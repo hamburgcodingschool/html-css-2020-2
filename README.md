@@ -30,8 +30,6 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
   * [x] Add an image to to your page and center it.
 * [x] **Homework**
     * [x] Find a website idea. What kind of website would you like to develop?
-    * [x] Create three different web pages minumum
-        * [x] Create a menu (top navigation) to go to other pages
 * [x] **Retro**
     * [x] Do you feel like you learned something new today?
     * [x] Name one thing you learned today?
@@ -55,7 +53,10 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Create an employee table with images and at least 3 columns
     * [x] Create a list with employee table with images and at least 3 columns
  * [x] **Homework**
-    * [x] Research what commenting is in HTML.
+    * [x] Research what commenting is in programming and how we do it in HTML.
+    * [x] Research what cookies are
+    * [x] Create three different web pages minumum
+        * [x] Create a menu (top navigation) to go to other pages
     * [x] Create some link elements which will open new tab when it's clicked
     * [x] Add at least one form according to your website's purpose
         * [x] Form will have button to sumbit
@@ -88,7 +89,6 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Create smilar design like this website: https://www.howtodeal.dev using columns
     * [x] Research what Git and Github
     * [x] Research what IP addresses are
-    * [x] Research what cookies are
     * [x] Research what naming in web development is
 
 ## Lesson #4
@@ -161,11 +161,10 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
 ## Lesson #9
 
 ## Attendees
-- Ugur (Trainer)
-- German Garcia
-- Christian Eckardt
-- Andrew Russell
-- Annika Klüpfel
-- Steffen Häfelinger
-- Gabi Geringer
-- Angie Nguyen Phan
+- Ugur (Trainer) 
+- Christian Eckardt --> Cosplay website
+- Andrew Russell --> Website for photography
+- Annika Klüpfel --> Portfolio website
+- Steffen Häfelinger --> Website for his musical work
+- Gabi Geringer --> Merchandise website
+- Angie Nguyen Phan --> Foodie, recipe website
