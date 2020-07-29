@@ -114,11 +114,14 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
     * [x] Only use external styling
     * [x] Research what bootstrap is.
     * [x] Design a landing page (image is sent via slack)
+    * [x] Design this website using all we learned with CSS
+    * [x] Think about a design for your own website
     
 ## Lesson #5
 
 * [x] **Checking homeworks**
-* [x] Skill Matrix 
+* [x] Skill Matrix
+* [x] Explanation and examples of position property in CSS
 * [x] Bootstrap Basics
     * [x] Grids
     * [x] Containers, fluids
@@ -130,6 +133,8 @@ HTML &amp; CSS Kurs given by Ugur Tekbas 2020-2
 * [x] **Homework**
     * [x] Think about what you wish to learn
     * [x] Research about cookies and caches   
+    * [x] Include Bootstrap in your previous homework
+    * [x] Use grid system for your columns
 * [x] **Retro**
     * [x] Don'ts - Dos - More
 
